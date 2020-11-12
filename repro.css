@@ -1,0 +1,91 @@
+#header{
+    background-color: #fdb8bc;
+    border-style: 2px;
+    text-align: center;
+    height: 3em;
+}
+
+#nav{
+    background-color: #b7dde8;
+    border-style: 2px;
+    text-align: center;
+    height: 5em;
+    width: 5em;
+    margin-left: 3em;
+    position:relative;
+    bottom:1em;
+}
+
+#section{
+    display: inline-block;
+    background-color: #d8d8d8;
+    border-style: 2px;
+    text-align: left;
+    height: 15em;
+    width: 20em;
+    margin-left: 10em;
+    position:relative;
+    bottom:5em;
+}
+
+#article{
+    display: inline-block;
+    background-color: #8db1e3;
+    text-align: center;
+    height: 5em;
+    width: 10em;
+    margin-left: 1em;
+    position:relative;
+    bottom:1em;
+}
+
+#aside1{
+    background-color: #d99690;
+    text-align: right;
+    height: 3em;
+    width: 5em;
+    margin-left: 5em;
+    position:relative;
+    bottom:6em;
+    left: 6em;
+}
+
+#aside2{
+    background-color: #d99690;
+    text-align: right;
+    height: 3em;
+    width: 5em;
+    margin-left: 5em;
+    position:relative;
+    bottom:6em;
+    left: 6em;
+}
+
+#section2{
+    background-color: #d8d8d8;
+    border-style: 2px;
+    text-align: left;
+    height: 5em;
+    width: 20em;
+    margin-left: 10em;
+    position:relative;
+    bottom: 6em;
+}
+
+#aside3{
+    background-color: #d99690;
+    text-align: right;
+    height: 3em;
+    width: 5em;
+    margin-left: 11em;
+    position:relative;
+    bottom: 2em;
+}
+
+#footer{
+    background-color: #d2d3ad;
+    text-align: center;
+    height: 2em;
+    position: relative;
+    bottom: 5em;
+}
